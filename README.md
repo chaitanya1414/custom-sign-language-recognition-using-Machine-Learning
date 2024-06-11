@@ -1,6 +1,7 @@
 # Custom Sign Language Recognition using Machine Learning
 
 This project involves creating a custom sign language recognition system using hand landmarks detected via MediaPipe and a machine learning model. The system captures hand gestures, processes the landmarks, and trains a machine learning model to recognize these gestures.
+In this project i have made random gestures which are not official sign language gestures and i made them only for fun purposeand trying out different stuff. I will also upload another repository which has actual hand sign gestures for different alphabets in some time.
 
 ## Project Structure
 
